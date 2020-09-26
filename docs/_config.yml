@@ -1,9 +1,15 @@
+description: >-
+    Testing cross compatiblity with jekyll assets / themes
+    between repositories and user / org pages
 url: "daephx.github.io"
-# remote_theme: daephx/daehpx.github.io
-# - jekyll-remote-theme
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+    with_frontmatter: true
 
 twitter_username: daephx
 
 plugins:
     - jekyll-feed
+    - jekyll-remote-theme
     - jemoji
