@@ -1,4 +1,4 @@
-remote_theme: poole/lanyon
+remote_theme: jekyll/minima
 
 plugins:
     - jekyll-feed
