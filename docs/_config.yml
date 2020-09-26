@@ -1,6 +1,7 @@
-remote_theme: jekyll/minima
+url: "daephx.github.io"
+# remote_theme: daephx/daehpx.github.io
+# - jekyll-remote-theme
 
 plugins:
     - jekyll-feed
-    - jekyll-remote-theme
     - jemoji
