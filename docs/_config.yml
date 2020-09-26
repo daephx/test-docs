@@ -2,6 +2,8 @@ url: "daephx.github.io"
 # remote_theme: daephx/daehpx.github.io
 # - jekyll-remote-theme
 
+twitter_username: daephx
+
 plugins:
     - jekyll-feed
     - jemoji
