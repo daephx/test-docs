@@ -1,13 +1,16 @@
+title: test-docs
 description: >-
     Testing cross compatiblity with jekyll assets / themes
     between repositories and user / org pages
 url: "daephx.github.io"
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: SupunKavinda/jekyll-theme-leaf
+# remote_theme: rundocs/jekyll-rtd-theme
 
-readme_index:
-    with_frontmatter: true
+permalink: :slug
 
-twitter_username: daephx
+social:
+    twitter: daephx
+    github: daephx
 
 plugins:
     - jekyll-feed
